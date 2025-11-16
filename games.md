@@ -5,6 +5,8 @@ title: Games
 
 # My Games
 
+![90s Retro Commercial](https://media.giphy.com/media/d2Z7NqwF3yImFNHW/giphy.gif){: .img-center }
+
 These are small games ive made with friends and alone, mostly for game jams.
 Check out my [itch page](https://rickylee.itch.io/) it will be more up to date.
 
