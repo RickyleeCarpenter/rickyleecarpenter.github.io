@@ -31,3 +31,10 @@ footer {
 ul {
   list-style-type: square;
 }
+
+img {
+  border: 3px dotted lime;
+  padding: 4px;
+  margin: 15px 0;
+  box-shadow: 2px 2px 0 #ff00ff;
+}
