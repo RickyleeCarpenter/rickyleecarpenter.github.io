@@ -82,9 +82,7 @@ Developed by Sumo Digital Academy and published by Secret Mode.
 <br>
 
 <br>
-<hr style="height:0; border:none; margin:0; padding:0;">
 ![Oil Strike 75](https://www.sumo-digital.com/wp-content/uploads/2024/08/Sumo-Digital-games-Oil-Strike-75-featured-image.jpg){: .img-left }
-<hr style="height:0; border:none; margin:0; padding:0;">
 <br>
 
 <div style="clear: both;"></div>
