@@ -80,3 +80,9 @@ button:hover {
   background-color: black;
   color: lime;
 }
+
+.video-left {
+  display: block;
+  margin: 20px 0;
+  text-align: left;
+}
