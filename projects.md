@@ -35,7 +35,6 @@ Developed by Sumo Digital Academy and published by Secret Mode.
 </div>
 <br>
 
-<br>
 - [Steam Store Page](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/)
 <br>
 
@@ -61,7 +60,6 @@ Developed by Sumo Digital Academy for Sheffield Wednesday FC to play at half tim
 </div>
 <br>
 
-<br>
 - [Article](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/)
 <br>
 
@@ -87,7 +85,6 @@ Developed by Sumo Digital Academy and published by Secret Mode.
 
 <div style="clear: both;"></div>
 
-<br>
 - [Steam Store Page](https://store.steampowered.com/app/2740090/Oil_Strike_75/)
 - [Fandom Wiki](https://still-wakes-the-deep.fandom.com/wiki/Oil_Strike_%2775)
 <br>
