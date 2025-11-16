@@ -5,6 +5,4 @@ title: Thank You
 
 # Thanks for reaching out!
 
-I’ll get back to you as soon as I can.  
-
-Go back to [Home](/)!
+I’ll get back to you as soon as I can :)
