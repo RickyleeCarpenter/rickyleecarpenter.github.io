@@ -4,12 +4,12 @@ title: Projects
 ---
 
 # Projects
-<br>
+<hr style="height:0; border:none; margin:0; padding:0;">
 Published games im credited on
-<br>
+<hr style="height:0; border:none; margin:0; padding:0;">
 ![Rainbow](https://media.giphy.com/media/j663Bww6Uchnkp7GIp/giphy.gif){: .img-left }
-<br>
-<br>
+<hr style="height:0; border:none; margin:0; padding:0;">
+<hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
@@ -31,9 +31,9 @@ Published games im credited on
 Here’s a brief on my role: *[describe your contribution]*
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
-<br>
+<hr style="height:0; border:none; margin:0; padding:0;">
 <hr style="border:2px solid lime; margin:30px 0;">
-<br>
+<hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Snake Party</span>
@@ -47,16 +47,16 @@ Here’s a brief on my role: *[describe your contribution]*
 Brief: *[your role/description]*
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
-<br>
+<hr style="height:0; border:none; margin:0; padding:0;">
 <hr style="border:2px solid lime; margin:30px 0;">
-<br>
+<hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Oil Strike ‘75</span>
 
-<br>
+<hr style="height:0; border:none; margin:0; padding:0;">
 ![Oil Strike 75](https://www.sumo-digital.com/wp-content/uploads/2024/08/Sumo-Digital-games-Oil-Strike-75-featured-image.jpg){: .img-left }
-<br>
+<hr style="height:0; border:none; margin:0; padding:0;">
 
 - [Steam Store Page](https://store.steampowered.com/app/2740090/Oil_Strike_75/)
 - [Fandom Wiki](https://still-wakes-the-deep.fandom.com/wiki/Oil_Strike_%2775)
@@ -64,16 +64,16 @@ Brief: *[your role/description]*
 Brief: QA for Oil Strike 75, secret ARG mode published to promote *Still Wakes the Deep*.
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
-<br>
+<hr style="height:0; border:none; margin:0; padding:0;">
 <hr style="border:4px solid cyan; margin:30px 0;">
-<br>
+<hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
 Featured work / programming projects
-<br>
+<hr style="height:0; border:none; margin:0; padding:0;">
 ![Retro Data GIF](https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif){: .img-left }
-<br>
-<br>
+<hr style="height:0; border:none; margin:0; padding:0;">
+<hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">idk what to put here lol</span>
 
