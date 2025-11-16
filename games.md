@@ -3,9 +3,10 @@ layout: default
 title: Games
 ---
 
-# Games
+# My Games
 
-See all my cool games on my [itch.io page](https://rickylee.itch.io/)
+These are small games ive made with friends and alone, mostly for game jams.
+Check out my [itch page](https://rickylee.itch.io/) it will be more up to date.
 
 <!-- Mega Water Rally 32 -->
 <iframe frameborder="0"
