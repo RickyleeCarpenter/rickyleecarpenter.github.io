@@ -8,7 +8,7 @@ title: Games
 ![90s Retro Commercial](https://media.giphy.com/media/d2Z7NqwF3yImFNHW/giphy.gif){: .img-center }
 
 <div style="text-align: center;">
-        These are small games ive made with friends and alone, mostly for game jams.
+        These are small games ive made either alone or with friends, mostly for game jams.
         Check out my [itch page](https://rickylee.itch.io/) it will be more up to date.
 </div>
 <br>
