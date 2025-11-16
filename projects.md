@@ -6,7 +6,7 @@ title: Projects
 # Projects
 ![Rainbow](https://media.giphy.com/media/j663Bww6Uchnkp7GIp/giphy.gif){: .img-center }
 <hr style="height:0; border:none; margin:0; padding:0;">
-Published games I worked on professionally and am credited on.
+Brief look at published games I worked on professionally, and am credited on.
 <hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
