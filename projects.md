@@ -6,7 +6,9 @@ title: Projects
 # Projects
 ![Rainbow](https://media.giphy.com/media/j663Bww6Uchnkp7GIp/giphy.gif){: .img-center }
 <hr style="height:0; border:none; margin:0; padding:0;">
-Brief look at published games I'm credited on professionally.
+<div style="text-align: center;">
+  Brief look at published games I'm credited on professionally.
+</div>
 <hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -68,7 +70,9 @@ Brief: QA for Oil Strike 75, secret ARG mode published to promote *Still Wakes t
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 ![Retro Data GIF](https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif){: .img-center }
 <hr style="height:0; border:none; margin:0; padding:0;">
-Brief look at some featured work / programming projects.
+<div style="text-align: center;">
+  Brief look at some featured work / programming projects.
+</div>
 <hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">idk what to put here lol</span>
