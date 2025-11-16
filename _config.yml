@@ -1,22 +1,8 @@
 title: rickylee
 description: Game dev & indie projects
-#url: "https://rickyleecarpenter.github.io"
-
-# theme: jekyll-theme-minimal
+url: "https://rickyleecarpenter.github.io"
 
 author:
   name: Ricky-lee Carpenter
-  email: ricky@example.com
   github: RickyleeCarpenter
   linkedin: ricky-lee-carpenter-08a89811a
-
-nav:
-  - title: About
-    url: /about
-  - title: Projects
-    url: /projects
-  - title: Contact
-    url: /contact
-
-markdown: kramdown
-highlighter: rouge
