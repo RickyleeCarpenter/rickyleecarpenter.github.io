@@ -8,7 +8,7 @@ title: Projects
 <hr style="border:4px solid cyan; margin:30px 0;">
 
 Published games im credited on
-![Rainbow](https://media.giphy.com/media/j663Bww6Uchnkp7GIp/giphy.gif){: .img-left }
+![Rainbow](https://media.giphy.com/media/j663Bww6Uchnkp7GIp/giphy.gif){: .img-center }
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
