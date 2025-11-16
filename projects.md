@@ -5,9 +5,9 @@ title: Projects
 
 # Projects
 
-Here I’ll showcase some of my featured work, published games, and programming projects.
+Published games im credited on
 
----
+![Rainbow](https://media.giphy.com/media/j663Bww6Uchnkp7GIp/giphy.gif){: .img-center }
 
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
 
@@ -66,3 +66,13 @@ Brief: *[your role/description]*
 </div>
 
 Brief: QA for Oil Strike 75, secret ARG mode published to promote *Still Wakes the Deep*.
+
+## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
+
+Featured work / programming projects
+
+![Retro Data GIF](https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif){: .img-center }
+
+## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">idk what to put here lol</span>
+
+google monster eye
