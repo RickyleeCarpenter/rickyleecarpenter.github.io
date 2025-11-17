@@ -15,9 +15,11 @@ title: Projects
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
-## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG (2024-2026)</span>
+## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
+# <span style="color: yellow"> >2024-2026</span>
+# <span style="color: yellow"> >Built in a custom in house engine</span>
 <br>
-**- Built in a custom in house engine**
+**- **
 <br>
 NUTMEG is a 3D retro 80s football manager, that uses a card game with deck building to represent football matches.
 <br>
