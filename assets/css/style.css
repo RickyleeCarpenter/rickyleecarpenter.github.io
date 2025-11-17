@@ -98,3 +98,19 @@ button:hover {
   display: table;
   clear: both;
 }
+
+.link {
+  color: cyan;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.link:hover {
+  color: yellow;
+}
+
+.link:visited {
+  color: cyan;
+  text-decoration: underline;
+  font-weight: bold;
+}
