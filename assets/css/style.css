@@ -5,7 +5,7 @@ header {
   right: 0;
   background-color: black;
   z-index: 998;
-  padding: 10px 10%; /* matches body padding for alignment */
+  padding: 10px 10%;
   border-bottom: 2px solid lime;
 }
 
@@ -16,7 +16,7 @@ footer {
   right: 0;
   background-color: black;
   z-index: 998;
-  padding: 10px 10%; /* matches body padding */
+  padding: 10px 10%;
   border-top: 2px solid lime;
 }
 
