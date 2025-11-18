@@ -1,11 +1,10 @@
+---
+layout: default
+title: Projects
+---
+
 <div class="fixed-left-margin"></div>
 <div class="page-wrapper">
-
-  ---
-  layout: default
-  title: Projects
-  ---
-  
   # Projects
   
   <hr style="height:0; border:none; margin:0; padding:0;">
