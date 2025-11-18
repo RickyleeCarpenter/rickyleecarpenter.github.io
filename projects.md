@@ -87,7 +87,7 @@ title: Projects
 - [Fandom Wiki](https://still-wakes-the-deep.fandom.com/wiki/Oil_Strike_%2775){: .link }
 
 <br>
-![Oil Strike 75](https://www.sumo-digital.com/wp-content/uploads/2024/08/Sumo-Digital-games-Oil-Strike-75-featured-image.jpg){: .img-left width="320"}
+![Oil Strike 75](https://www.sumo-digital.com/wp-content/uploads/2024/08/Sumo-Digital-games-Oil-Strike-75-featured-image.jpg){: .img-left width="600"}
 <br>
 
 <div style="clear: both;"></div>
