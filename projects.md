@@ -18,11 +18,8 @@ title: Projects
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
 <span class="subtitle-yellow">2024–2026</span>
 <span class="subtitle-yellow">Built in c++ with a custom in-house 3D Engine</span>
-<br>
 <div class="text-box">A 3D retro 80s football manager, that uses a card game with deck building to represent football matches.</div>
-<br>
 <div class="text-box">Developed by Sumo Digital Academy and published by Secret Mode.</div>
-<br>
 
 - [Steam Store Page](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/){: .link }
 
@@ -33,16 +30,12 @@ title: Projects
 <div class="video-wrapper" style="float:left; margin:0 20px 20px 0; width:20%;">
   <iframe src="https://www.youtube.com/embed/oWrVxXGlg6w" frameborder="0" allowfullscreen></iframe>
 </div>
-
 <div style="clear:both;"></div>
+
 ## Junior Programmer
 <div class="text-box">I was involved right from the start before NUTMEG was officially a project at Sumo. There were many internal processes to get NUTMEG greenlit. One of those was to produce a prototype of the card game - which myself and a two others were given the responsibility to develop using an in-house custom 2D framework.</div>
-<br><br>
 <div class="text-box">After it officially kicked off I ended up working across pretty much every layer of the project — adding new gameplay and flow, extending our data-driven systems, making engine tools to prevent insanity, helping shape new rendering features and writing the shaders for them.</div>
-<br><br>
 <div class="text-box">My personal favorite work is the procedural animations I produced with instanced objects</div>
-<br>
-<br>
 *ADD ANIMATIONS GIF HERE"
 <br>
 <br>
@@ -56,11 +49,8 @@ title: Projects
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Snake Party</span>
 <span class="subtitle-yellow">2024</span>
 <span class="subtitle-yellow">Built in c++ with a custom in-house 3D Engine</span>
-<br>
 <div class="text-box">A 3d multiplayer split screen take on the classic snake, using the Snake Pass IP.</div>
-<br>
 <div class="text-box">Developed by Sumo Digital Academy for Sheffield Wednesday FC to play at half time.</div>
-<br>
 
 - [Article](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/){: .link }
 
@@ -70,9 +60,7 @@ title: Projects
 </div>
 ## Apprentice Programmer
 <div class="text-box">We intended this to be a party game with multiple game modes – when released we only included the one game mode shown in the video, with the intention of adding more games in later updates.</div>
-<br>
 <div class="text-box">I had many tasks on Snake Party as a generalist, but my main responsibility was to prototype and lead development of an additional 4-player game mode. Unfortunately, not long after release the project was dropped for something else, and it's highly likely that the game mode I worked on will never see the light of day. xD</div>
-<br>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 <hr style="height:0; border:none; margin:0; padding:0;">
@@ -83,11 +71,8 @@ title: Projects
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Oil Strike 75</span>
 <span class="subtitle-yellow">2024</span>
 <span class="subtitle-yellow">Built in c++ with a custom in-house engine</span>
-<br>
 <div class="text-box">A pseudo emulated, 2D ARG horror game made to promote [Still Wakes The Deep](https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/){: .link }.</div>
-<br>
 <div class="text-box">Developed by Sumo Digital Academy and published by Secret Mode.</div>
-<br>
 
 - [Steam Store Page](https://store.steampowered.com/app/2740090/Oil_Strike_75/){: .link }
 - [Fandom Wiki](https://still-wakes-the-deep.fandom.com/wiki/Oil_Strike_%2775){: .link }
@@ -100,9 +85,7 @@ title: Projects
 
 ## Apprentice Programmer / QA
 <div class="text-box">My first AAA credit was on Still Wakes The Deep for being QA on Oil Strike '75. Id just started as an apprentice and this was our first real look at how things ran in a large scale studio.</div>
-<br><br>
 <div class="text-box">We learned how to test features properly, write clear bug reports, and understand debugging workflows from the QA side — plus all the practical stuff like Perforce, project management tools, continuous integration, Agile, and Scrum that make up the production pipeline.</div>
-<br><br>
 <div class="text-box">I specifically tested Matt's helicopter level, so if you play it you know that at least that part of the game won't have any glitches ;)</div>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
