@@ -62,11 +62,12 @@ title: Projects
   <table style="width:680px; margin:0 0 20px 0;">
     <tr>
       <td style="text-align:center;">
-        <iframe width="320" height="180" src="https://www.youtube.com/watch?v=EqPuux4oIP8" frameborder="0" allowfullscreen></iframe>
+        <iframe width="320" height="180" src="https://www.youtube.com/embed/EqPuux4oIP8" frameborder="0" allowfullscreen></iframe>
       </td>
     </tr>
   </table>
 </div>
+
 ## Apprentice Programmer
 <div class="text-box">We intended this to be a party game with multiple game modes – when released we only included the one game mode shown in the video, with the intention of adding more games in later updates.</div>
 <div class="text-box">I had many tasks on Snake Party as a generalist, but my main responsibility was to prototype and lead development of an additional 4-player game mode. Unfortunately, not long after release the project was dropped for something else, and it's highly likely that the game mode I worked on will never see the light of day. xD</div>
