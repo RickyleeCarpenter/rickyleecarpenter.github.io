@@ -17,7 +17,7 @@ title: Projects
 
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
 <span class="subtitle-yellow">>2024–2026</span>
-<span class="subtitle-yellow">>Built in a custom in-house engine</span>
+<span class="subtitle-yellow">>Built in c++ with a custom in-house engine</span>
 <br>
 NUTMEG is a 3D retro 80s football manager, that uses a card game with deck building to represent football matches.
 <br>
@@ -38,11 +38,18 @@ Developed by Sumo Digital Academy and published by Secret Mode.
           frameborder="0" allowfullscreen>
   </iframe>
 </div>
+Job Title: **Junior Programmer**
 <br>
-
-Role:
+I was involved right from the start of NUTMEG, before it was even officially a project at Sumo. There were many processes to get the game internally greenlit, and one of those was to produce a prototype of which myself and a couple others were given the responsibility to do using an in-house custom framework.k.
 <br>
-*explain role*
+After it officially kicked off, I ended up working across pretty much every layer of the project — adding new gameplay and flow, extending our data-driven systems, helping shape new rendering features and writing the shaders for them, making engine tools to prevent insanity. 
+<br>
+I think my flashiest work would be the procedural animations work with instanced objects
+<br>
+<br>
+*ADD ANIMATIONS GIF HERE" 
+<br>
+<br>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 <hr style="height:0; border:none; margin:0; padding:0;">
@@ -52,7 +59,7 @@ Role:
 
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Snake Party</span>
 <span class="subtitle-yellow">>2024</span>
-<span class="subtitle-yellow">>Built in a custom in-house engine</span>
+<span class="subtitle-yellow">>Built in c++ with a custom in-house engine</span>
 A 3d multiplayer split screen take on classic snake, using the Snake Pass IP. 
 <br>
 Developed by Sumo Digital Academy for Sheffield Wednesday FC to play at half time.
@@ -64,11 +71,12 @@ Developed by Sumo Digital Academy for Sheffield Wednesday FC to play at half tim
 <div class="video-leftblock">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/EqPuux4oIP8" frameborder="0" allowfullscreen></iframe>
 </div>
+Job Title: **Apprentice Programmer**
 <br>
-
-Role:
+We initially intended this to be a party game with multiple game modes - on release we only included the one game mode shown in the video, with the intention of updating with more later.
 <br>
-*explain role*
+I had the main responsibility to prototype and develop an additional game mode for the team to polish after release - Unfortunately not long after release the project was dropped for another and most of my work was never released xD
+<br>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 <hr style="height:0; border:none; margin:0; padding:0;">
@@ -78,7 +86,7 @@ Role:
 
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Oil Strike 75</span>
 <span class="subtitle-yellow">>2024</span>
-<span class="subtitle-yellow">>Built in a custom in-house engine</span>
+<span class="subtitle-yellow">>Built in c++ with a custom in-house engine</span>
 <br>
 A pseudo emulated, 2D ARG horror game made to promote [Still Wakes The Deep](https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/){: .link }.
 <br>
