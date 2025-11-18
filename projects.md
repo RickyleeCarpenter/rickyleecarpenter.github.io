@@ -90,7 +90,10 @@ title: Projects
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
     <td style="text-align:center;">
-      ![Oil Strike 75](https://www.sumo-digital.com/wp-content/uploads/2024/08/Sumo-Digital-games-Oil-Strike-75-featured-image.jpg){: .img-left width="600"}
+      <img src="https://www.sumo-digital.com/wp-content/uploads/2024/08/Sumo-Digital-games-Oil-Strike-75-featured-image.jpg" 
+           class="img-left" 
+           width="600" 
+           alt="Oil Strike 75">
     </td>
   </tr>
 </table>
