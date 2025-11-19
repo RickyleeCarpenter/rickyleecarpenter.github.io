@@ -124,6 +124,4 @@ title: Projects
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
-## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">idk what to put here lol</span>
-
-<div class="text-box">google monster eye</div>
+## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">pending update I swear there are things to show please believe me</span>
