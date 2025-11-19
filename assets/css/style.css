@@ -3,7 +3,7 @@ body {
   color: lime;
   font-family: 'Courier New', monospace;
   margin: 0;
-  padding: 0;
+  padding: 0 10%;
   box-sizing: border-box;
 }
 
