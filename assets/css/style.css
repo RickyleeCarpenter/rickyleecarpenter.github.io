@@ -23,7 +23,7 @@ header {
   top: 0;
   left: 10%;
   right: 0;
-  background-color: black;
+  background-color: red;
   padding: 10px 20px;
   border-bottom: 2px solid lime;
   z-index: 1001;
@@ -59,7 +59,7 @@ footer {
   bottom: 0;
   left: 10%;
   right: 0;
-  background-color: black;
+  background-color: red;
   padding: 10px 20px;
   border-top: 2px solid lime;
   z-index: 1001;
