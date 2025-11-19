@@ -24,9 +24,9 @@ header {
   left: 10%;
   right: 0;
   background-color: black;
-  z-index: 998;
   padding: 10px 20px;
   border-bottom: 2px solid lime;
+  z-index: 1001;
 }
 
 main {
@@ -62,7 +62,7 @@ footer {
   background-color: black;
   padding: 10px 20px;
   border-top: 2px solid lime;
-  z-index: 998;
+  z-index: 1001;
 }
 
 ul {
