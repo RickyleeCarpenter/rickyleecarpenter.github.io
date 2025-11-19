@@ -70,7 +70,7 @@ title: Projects
 
 ## Apprentice Programmer
 <div class="text-box">We intended this to be a party game with multiple game modes – when released we only included the one game mode shown in the video, with the intention of adding more games in later updates.</div>
-<div class="text-box">I had a generalist role on Snake Party, but my main responsibility was to prototype and lead development of an additional 4-player game mode. Unfortunately, not long after release the project was dropped for something else, and it's highly likely that the game mode I worked on will never see the light of day. xD</div>
+<div class="text-box">I had a generalist role on Snake Party, but my main responsibility was to prototype and lead development of a 4-player game mode. Though not long after Snake Party released, the project was unfortunately dropped for something else. It's now highly likely that the game mode I worked on will never see the light of day. xD</div>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 <hr style="height:0; border:none; margin:0; padding:0;">
