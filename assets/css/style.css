@@ -15,7 +15,7 @@ body {
   height: 100%;
   background-color: cyan;
   z-index: 999;
-  padding: 20px;
+  padding: 0;
 }
 
 header {
