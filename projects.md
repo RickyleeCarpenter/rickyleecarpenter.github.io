@@ -93,10 +93,11 @@ title: Projects
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
     <td style="text-align:center;">
-      <img src="[https://www.sumo-digital.com/wp-content/uploads/2024/08/Sumo-Digital-games-Oil-Strike-75-featured-image.jpg](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2740090/856c9ce8ca1f1c9e309b7bb2565ab269cef76055/header.jpg?t=1762336814)" 
-           class="img-left" 
-           width="600" 
-           alt="Oil Strike 75">
+      <img
+        src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2740090/856c9ce8ca1f1c9e309b7bb2565ab269cef76055/header.jpg?t=1762336814"
+        class="img-left"
+        width="600"
+        alt="Oil Strike 75">
     </td>
   </tr>
 </table>
