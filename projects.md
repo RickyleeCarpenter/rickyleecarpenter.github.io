@@ -40,8 +40,6 @@ title: Projects
 <div class="text-box">I was involved right from the start before NUTMEG was officially a project at Sumo. There were many internal processes to get NUTMEG greenlit. One of those was to produce a prototype of the card game - which myself and a two others were given the responsibility to develop using an in-house custom 2D framework.</div>
 <div class="text-box">After it officially kicked off I ended up working across pretty much every layer of the project — adding new gameplay and flow, extending our data-driven systems, making engine tools to prevent insanity, helping shape new rendering features and writing the shaders for them.</div>
 <div class="text-box">My personal favorite work is the procedural animations with instanced objects</div>
-*ADD ANIMATIONS GIF HERE"
-<br>
 <br>
 
 <table style="margin: 20px 0;">
@@ -49,7 +47,7 @@ title: Projects
     <td style="padding:10px; text-align:left;">
       <video
         src="{{ '/assets/videos/DivBoard.mp4' | relative_url }}"
-        height="180"
+        height="512"
         autoplay
         loop
         muted
@@ -60,7 +58,7 @@ title: Projects
     <td style="padding:10px; text-align:left;">
       <video
         src="{{ '/assets/videos/Tabs.mp4' | relative_url }}"
-        height="180"
+        height="512"
         autoplay
         loop
         muted
@@ -179,6 +177,21 @@ title: Projects
 </table>
 
 <div class="text-box">We took the game to the national video games museum and an esports event. One kid just loved that he could attack his dad and make him drop his ship components xD.</div>
+
+<table style="width:680px; margin:0 0 20px 0;">
+  <tr>
+    <td style="text-align:left; center;">
+      <img src="{{ '/assets/images/event1.png' | relative_url }}" class="img-left" style="max-width: none; height:440px;" alt="esports">
+    </td>
+    <td style="text-align:left; center;">
+      <img src="{{ '/assets/images/JSC3_2.gif' | relative_url }}" class="img-left" style="max-width: none; height:440px;" alt="cake">
+    </td>
+    <td style="text-align:left; center;">
+      <img src="{{ '/assets/images/event2.jpeg' | relative_url }}" class="img-left" style="max-width: none; height:440px;" alt="NVM">
+    </td>
+  </tr>
+</table>
+
 <div class="text-box">My favourite feature was the little alien creatures that would steal ship parts, we turned that into a catch-up mechanic so that the aliens would carry ship parts away from players that were winning and towards losing players. But randomly when it was tied.</div>
 
 <table style="width:680px; margin:0 0 20px 0;">
