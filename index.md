@@ -6,7 +6,7 @@ title: Hi, I'm Ricky!
 # Me:
 
 <img
-  src="{{ '/assets/portrait.gif' | relative_url }}"
+  src="{{ '/assets/images/portrait.gif' | relative_url }}"
   alt="Me"
   class="img-center">
 
