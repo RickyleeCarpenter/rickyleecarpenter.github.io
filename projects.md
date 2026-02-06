@@ -44,12 +44,12 @@ title: Projects
 <br>
 <br>
 
-<table style="margin: 20px auto;">
+<table style="margin: 20px 0;">
   <tr>
-    <td style="padding:10px; text-align:center;">
+    <td style="padding:10px; text-align:left;">
       <video
         src="{{ '/assets/videos/DivBoard.mp4' | relative_url }}"
-        width="320"
+        height="180"
         autoplay
         loop
         muted
@@ -57,10 +57,10 @@ title: Projects
       </video>
     </td>
 
-    <td style="padding:10px; text-align:center;">
+    <td style="padding:10px; text-align:left;">
       <video
         src="{{ '/assets/videos/Tabs.mp4' | relative_url }}"
-        width="320"
+        height="180"
         autoplay
         loop
         muted
