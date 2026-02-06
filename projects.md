@@ -107,7 +107,7 @@ title: Projects
 ## Apprentice Programmer / QA
 <div class="text-box">My first AAA credit was on Still Wakes The Deep for being QA on Oil Strike '75. Id just started as an apprentice and this was our first real look at how things ran in a large scale studio.</div>
 <div class="text-box">We learned how to test features properly, write clear bug reports, and understand debugging workflows from the QA side — plus all the practical stuff like Perforce, project management tools, continuous integration, Agile, and Scrum that make up the production pipeline.</div>
-<div class="text-box">I specifically tested Matt's helicopter level, so if you play it you know that at least that part of the game won't have any glitches ;)</div>
+<div class="text-box">I specifically tested Matt's helicopter level, so if you play it you know that at least that part of the game won't have any glitches B)</div>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 <hr style="height:0; border:none; margin:0; padding:0;">
