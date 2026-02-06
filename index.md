@@ -10,7 +10,7 @@ title: Hi, I'm Ricky!
   alt="Me"
   class="img-center">
 
-<div class="text-box" style="text-align: center;">
+<div class="text-box text-box-center">
   • game dev • makes things for fun •
 </div>
 

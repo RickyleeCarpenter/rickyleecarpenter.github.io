@@ -125,38 +125,37 @@ title: Projects
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
-## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">pending update I swear there are things to show please believe me</span>
-
-# <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Oil Strike 75</span>
+# <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Jet Set Crash</span>
 <span class="subtitle-yellow">2024</span>
 <span class="subtitle-yellow">Built in c++ with a custom in-house engine</span>
-<div class="text-box">
-  A pseudo emulated, 2D ARG horror game made to promote 
-  <a class="link" href="https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/" target="_blank">Still Wakes The Deep</a>.
-</div>
-<div class="text-box">Developed by Sumo Digital Academy and published by Secret Mode.</div>
+<div class="text-box">2-player split screen party game, where astronauts race to build their rockets and escape the planet first.</div>
+<div class="text-box">Made in 1 month by myself and a small team of apprentices</div>
 
-- [Steam Store Page](https://store.steampowered.com/app/2740090/Oil_Strike_75/){: .link }
-- [Fandom Wiki](https://still-wakes-the-deep.fandom.com/wiki/Oil_Strike_%2775){: .link }
-
-<table style="width:680px; margin:0 0 20px 0;">
+<table style="width:680px; margin:0 auto 20px auto;">
   <tr>
-    <td style="text-align:center;">
-      <img
-        src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2740090/856c9ce8ca1f1c9e309b7bb2565ab269cef76055/header.jpg?t=1762336814"
-        class="img-left"
-        width="600"
-        alt="Oil Strike 75">
+    <td style="text-align:center; width:50%;">
+      <img src="{{ '/assets/images/JSC2.gif' | relative_url }}" class="img-center" alt="Jet Set Crash screenshot 2">
+    </td>
+    <td style="text-align:center; width:50%;">
+      <img src="{{ '/assets/images/JSC3.gif' | relative_url }}" class="img-center" alt="Jet Set Crash screenshot 3">
     </td>
   </tr>
 </table>
 
-<div style="clear: both;"></div>
-
 ## Apprentice Programmer / QA
-<div class="text-box">My first AAA credit was on Still Wakes The Deep for being QA on Oil Strike '75. Id just started as an apprentice and this was our first real look at how things ran in a large scale studio.</div>
-<div class="text-box">We learned how to test features properly, write clear bug reports, and understand debugging workflows from the QA side — plus all the practical stuff like Perforce, project management tools, continuous integration, Agile, and Scrum that make up the production pipeline.</div>
-<div class="text-box">I specifically tested Matt's helicopter level, so if you play it you know that at least that part of the game won't have any glitches B)</div>
+<div class="text-box">We took the game to the national video games museum and an esports event. One kid just loved that he could attack his dad and make him drop his ship components xD.</div>
+<div class="text-box">My favourite feature was the little alien creatures that would steal ship parts, we turned that into a catch-up mechanic so that the aliens would carry ship parts away from players that were winning and towards losing players. But randomly when it was tied.</div>
+
+<table style="width:680px; margin:0 auto 20px auto;">
+  <tr>
+    <td style="text-align:center; width:50%;">
+      <img src="{{ '/assets/images/JSC4.gif' | relative_url }}" class="img-center" alt="Jet Set Crash screenshot 4">
+    </td>
+    <td style="text-align:center; width:50%;">
+      <img src="{{ '/assets/images/JSC1.gif' | relative_url }}" class="img-center" alt="Jet Set Crash screenshot 1">
+    </td>
+  </tr>
+</table>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 <hr style="height:0; border:none; margin:0; padding:0;">
