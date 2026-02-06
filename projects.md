@@ -141,7 +141,7 @@ title: Projects
 <div class="text-box">2-player split screen party game, where astronauts race to build their rockets and escape the planet first.</div>
 <div class="text-box">Made in 1 month by myself and a small team of apprentices</div>
 
-<table style="width:680px; margin:0 auto 20px auto;">
+<table style="width:680px; margin:0 0 20px 0;">
   <tr>
     <td style="text-align:left; width:50%;">
       <img src="{{ '/assets/images/JSC2_2.gif' | relative_url }}" class="img-left" alt="Jet Set Crash screenshot 2">
@@ -156,7 +156,7 @@ title: Projects
 <div class="text-box">We took the game to the national video games museum and an esports event. One kid just loved that he could attack his dad and make him drop his ship components xD.</div>
 <div class="text-box">My favourite feature was the little alien creatures that would steal ship parts, we turned that into a catch-up mechanic so that the aliens would carry ship parts away from players that were winning and towards losing players. But randomly when it was tied.</div>
 
-<table style="width:680px; margin:0 auto 20px auto;">
+<table style="width:680px; margin:0 0 20px 0;">
   <tr>
     <td style="text-align:left; width:50%;">
       <img src="{{ '/assets/images/JSC4.gif' | relative_url }}" class="img-left" alt="Jet Set Crash screenshot 4">
@@ -178,7 +178,7 @@ title: Projects
 <span class="subtitle-yellow">Built in c++ with inhouse frameworks</span>
 <div class="text-box">Early learning c++ I recreated Asteroid using gameobjects</div>
 
-<table style="width:680px; margin:0 auto 20px auto;">
+<table style="width:680px; margin:0 0 20px 0;">
   <tr>
     <td style="text-align:left; width:50%;">
       <img src="{{ '/assets/images/Asteroid1.gif' | relative_url }}" class="img-left" alt="Asteroid Screenshot 1">
@@ -192,7 +192,7 @@ title: Projects
 ## Apprentice Programmer / QA
 <div class="text-box">And then naturally it became 3D xD based on the game - this version was really a showcase of standard HLSL shaders, as well as some custom like the water effect </div>
 
-<table style="width:680px; margin:0 auto 20px auto;">
+<table style="width:680px; margin:0 0 20px 0;">
   <tr>
     <td style="text-align:left; width:50%;">
       <img src="{{ '/assets/images/Brightside_2.gif' | relative_url }}" class="img-left" alt="Brightside screenshot 2">
@@ -203,7 +203,7 @@ title: Projects
   </tr>
 </table>
 
-<table style="width:680px; margin:0 auto 20px auto;">
+<table style="width:680px; margin:0 0 20px 0;">
   <tr>
     <td style="text-align:left; width:50%;">
       <img src="{{ '/assets/images/Shader1.gif' | relative_url }}" class="img-left" alt="Lighting Shader">
