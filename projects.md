@@ -76,7 +76,7 @@ title: Projects
   <table style="width:680px; margin:0 0 20px 0;">
     <tr>
       <td style="text-align:center;">
-        <iframe width="320" height="180" src="https://www.youtube.com/watch?v=Il9dzwpSpKM" frameborder="0" allowfullscreen></iframe>
+        <iframe width="320" height="180" src="https://www.youtube.com/embed/Il9dzwpSpKM" frameborder="0" allowfullscreen></iframe>
       </td>
     </tr>
   </table>
@@ -143,11 +143,11 @@ title: Projects
 
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
-    <td style="text-align:left; width:50%;">
-      <img src="{{ '/assets/images/JSC2_2.gif' | relative_url }}" class="img-left" alt="Jet Set Crash screenshot 2">
+    <td style="text-align:left; center;">
+      <img src="{{ '/assets/images/JSC2_2.gif' | relative_url }}" class="img-left" style="width: 200%;" alt="Jet Set Crash screenshot 2">
     </td>
-    <td style="text-align:left; width:50%;">
-      <img src="{{ '/assets/images/JSC3_2.gif' | relative_url }}" class="img-left" alt="Jet Set Crash screenshot 3">
+    <td style="text-align:left; center;">
+      <img src="{{ '/assets/images/JSC3_2.gif' | relative_url }}" class="img-left" style="width: 200%;" alt="Jet Set Crash screenshot 3">
     </td>
   </tr>
 </table>
@@ -159,10 +159,10 @@ title: Projects
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
     <td style="text-align:left; width:50%;">
-      <img src="{{ '/assets/images/JSC4.gif' | relative_url }}" class="img-left" alt="Jet Set Crash screenshot 4">
+      <img src="{{ '/assets/images/JSC4.gif' | relative_url }}" class="img-left" style="width: 200%;" alt="Jet Set Crash screenshot 4">
     </td>
     <td style="text-align:left; width:50%;">
-      <img src="{{ '/assets/images/JSC1.gif' | relative_url }}" class="img-left" alt="Jet Set Crash screenshot 1">
+      <img src="{{ '/assets/images/JSC1.gif' | relative_url }}" class="img-left" style="width: 200%;" alt="Jet Set Crash screenshot 1">
     </td>
   </tr>
 </table>
@@ -181,10 +181,10 @@ title: Projects
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
     <td style="text-align:left; width:50%;">
-      <img src="{{ '/assets/images/Asteroid1.gif' | relative_url }}" class="img-left" alt="Asteroid Screenshot 1">
+      <img src="{{ '/assets/images/Asteroid1.gif' | relative_url }}" class="img-left" style="width: 200%;" alt="Asteroid Screenshot 1">
     </td>
     <td style="text-align:left; width:50%;">
-      <img src="{{ '/assets/images/Asteroid2.gif' | relative_url }}" class="img-left" alt="Asteroid Screenshot 2">
+      <img src="{{ '/assets/images/Asteroid2.gif' | relative_url }}" class="img-left" style="width: 200%;" alt="Asteroid Screenshot 2">
     </td>
   </tr>
 </table>
@@ -195,10 +195,10 @@ title: Projects
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
     <td style="text-align:left; width:50%;">
-      <img src="{{ '/assets/images/Brightside_2.gif' | relative_url }}" class="img-left" alt="Brightside screenshot 2">
+      <img src="{{ '/assets/images/Brightside_2.gif' | relative_url }}" class="img-left" style="width: 200%;" alt="Brightside screenshot 2">
     </td>
     <td style="text-align:left; width:50%;">
-      <img src="{{ '/assets/images/Shader2_2.gif' | relative_url }}" class="img-left" alt="Brightside screenshot 1">
+      <img src="{{ '/assets/images/Shader2_2.gif' | relative_url }}" class="img-left" style="width: 200%;" alt="Brightside screenshot 1">
     </td>
   </tr>
 </table>
