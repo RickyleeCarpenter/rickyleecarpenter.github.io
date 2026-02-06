@@ -39,7 +39,7 @@ title: Projects
 ## Junior Programmer
 <div class="text-box">I was involved right from the start before NUTMEG was officially a project at Sumo. There were many internal processes to get NUTMEG greenlit. One of those was to produce a prototype of the card game - which myself and a two others were given the responsibility to develop using an in-house custom 2D framework.</div>
 <div class="text-box">After it officially kicked off I ended up working across pretty much every layer of the project — adding new gameplay and flow, extending our data-driven systems, making engine tools to prevent insanity, helping shape new rendering features and writing the shaders for them.</div>
-<div class="text-box">My personal favorite work is the procedural animations I produced with instanced objects</div>
+<div class="text-box">My personal favorite work is the procedural animations with instanced objects</div>
 *ADD ANIMATIONS GIF HERE"
 <br>
 <br>
