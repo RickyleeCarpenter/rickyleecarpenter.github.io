@@ -134,10 +134,10 @@ title: Projects
 <table style="width:680px; margin:0 auto 20px auto;">
   <tr>
     <td style="text-align:center; width:50%;">
-      <img src="{{ '/assets/images/JSC2.gif' | relative_url }}" class="img-center" alt="Jet Set Crash screenshot 2">
+      <img src="{{ '/assets/images/JSC_2.gif' | relative_url }}" class="img-center" alt="Jet Set Crash screenshot 2">
     </td>
     <td style="text-align:center; width:50%;">
-      <img src="{{ '/assets/images/JSC3.gif' | relative_url }}" class="img-center" alt="Jet Set Crash screenshot 3">
+      <img src="{{ '/assets/images/JSC_3.gif' | relative_url }}" class="img-center" alt="Jet Set Crash screenshot 3">
     </td>
   </tr>
 </table>
@@ -149,10 +149,10 @@ title: Projects
 <table style="width:680px; margin:0 auto 20px auto;">
   <tr>
     <td style="text-align:center; width:50%;">
-      <img src="{{ '/assets/images/JSC4.gif' | relative_url }}" class="img-center" alt="Jet Set Crash screenshot 4">
+      <img src="{{ '/assets/images/JSC_4.gif' | relative_url }}" class="img-center" alt="Jet Set Crash screenshot 4">
     </td>
     <td style="text-align:center; width:50%;">
-      <img src="{{ '/assets/images/JSC1.gif' | relative_url }}" class="img-center" alt="Jet Set Crash screenshot 1">
+      <img src="{{ '/assets/images/JSC_1.gif' | relative_url }}" class="img-center" alt="Jet Set Crash screenshot 1">
     </td>
   </tr>
 </table>
