@@ -126,3 +126,40 @@ title: Projects
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">pending update I swear there are things to show please believe me</span>
+
+# <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Oil Strike 75</span>
+<span class="subtitle-yellow">2024</span>
+<span class="subtitle-yellow">Built in c++ with a custom in-house engine</span>
+<div class="text-box">
+  A pseudo emulated, 2D ARG horror game made to promote 
+  <a class="link" href="https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/" target="_blank">Still Wakes The Deep</a>.
+</div>
+<div class="text-box">Developed by Sumo Digital Academy and published by Secret Mode.</div>
+
+- [Steam Store Page](https://store.steampowered.com/app/2740090/Oil_Strike_75/){: .link }
+- [Fandom Wiki](https://still-wakes-the-deep.fandom.com/wiki/Oil_Strike_%2775){: .link }
+
+<table style="width:680px; margin:0 0 20px 0;">
+  <tr>
+    <td style="text-align:center;">
+      <img
+        src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2740090/856c9ce8ca1f1c9e309b7bb2565ab269cef76055/header.jpg?t=1762336814"
+        class="img-left"
+        width="600"
+        alt="Oil Strike 75">
+    </td>
+  </tr>
+</table>
+
+<div style="clear: both;"></div>
+
+## Apprentice Programmer / QA
+<div class="text-box">My first AAA credit was on Still Wakes The Deep for being QA on Oil Strike '75. Id just started as an apprentice and this was our first real look at how things ran in a large scale studio.</div>
+<div class="text-box">We learned how to test features properly, write clear bug reports, and understand debugging workflows from the QA side — plus all the practical stuff like Perforce, project management tools, continuous integration, Agile, and Scrum that make up the production pipeline.</div>
+<div class="text-box">I specifically tested Matt's helicopter level, so if you play it you know that at least that part of the game won't have any glitches B)</div>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<hr style="height:0; border:none; margin:0; padding:0;">
+<hr style="border:2px solid lime; margin:30px 0;">
+<hr style="height:0; border:none; margin:0; padding:0;">
+<!-- -------------------------------------------------------------------------------------------------------------------------------- -->

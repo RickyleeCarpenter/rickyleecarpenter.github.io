@@ -182,3 +182,17 @@ button:hover {
   left: 0;
   top: 0;
 }
+
+.games-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;  /* this is the centering */
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.games-grid iframe {
+  width: min(560px, 90vw);
+  min-width: 320px;
+  height: 175px;
+}
