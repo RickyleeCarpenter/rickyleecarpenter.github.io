@@ -181,13 +181,13 @@ title: Projects
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
     <td style="text-align:left; center;">
-      <img src="{{ '/assets/images/event1.png' | relative_url }}" class="img-left" style="max-width: none; height:440px;" alt="esports">
+      <img src="{{ '/assets/images/event1.png' | relative_url }}" class="img-left" style="max-width: none; height:220px;" alt="esports">
     </td>
     <td style="text-align:left; center;">
-      <img src="{{ '/assets/images/JSC3_2.gif' | relative_url }}" class="img-left" style="max-width: none; height:440px;" alt="cake">
+      <img src="{{ '/assets/images/cake.png' | relative_url }}" class="img-left" style="max-width: none; height:220px;" alt="cake">
     </td>
     <td style="text-align:left; center;">
-      <img src="{{ '/assets/images/event2.jpeg' | relative_url }}" class="img-left" style="max-width: none; height:440px;" alt="NVM">
+      <img src="{{ '/assets/images/event2.jpeg' | relative_url }}" class="img-left" style="max-width: none; height:220px;" alt="NVM">
     </td>
   </tr>
 </table>

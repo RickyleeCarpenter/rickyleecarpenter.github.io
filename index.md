@@ -19,7 +19,8 @@ title: Hi, I'm Ricky!
 <img
   src="{{ '/assets/images/rickypattern.png' | relative_url }}"
   alt="Me"
-  class="img-center">
+  class="img-center"
+  style="height:310px; width:auto; max-width:none;">
 
 <div style="height: 800px;"></div>
 
