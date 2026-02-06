@@ -10,4 +10,4 @@ title: Hi, I'm Ricky!
   alt="Me"
   class="img-center">
 
-<div class="text-box"> • game dev • makes things for fun • google "The Monster Eye"</div>
+<div class="text-box"> • game dev • makes things for fun •</div>
