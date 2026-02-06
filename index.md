@@ -11,3 +11,9 @@ title: Hi, I'm Ricky!
   class="img-center">
 
 <div class="text-box"> • game dev • makes things for fun •</div>
+
+<div style="height: 800px;"></div>
+
+<div class="text-box">
+  • google "Monster Eye" •
+</div>
