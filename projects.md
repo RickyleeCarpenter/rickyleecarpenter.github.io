@@ -152,7 +152,6 @@ title: Projects
   </tr>
 </table>
 
-## Apprentice Programmer / QA
 <div class="text-box">We took the game to the national video games museum and an esports event. One kid just loved that he could attack his dad and make him drop his ship components xD.</div>
 <div class="text-box">My favourite feature was the little alien creatures that would steal ship parts, we turned that into a catch-up mechanic so that the aliens would carry ship parts away from players that were winning and towards losing players. But randomly when it was tied.</div>
 
@@ -176,7 +175,7 @@ title: Projects
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Asteroid Asteroid</span>
 <span class="subtitle-yellow">2024</span>
 <span class="subtitle-yellow">Built in c++ with inhouse frameworks</span>
-<div class="text-box">Early learning c++ I recreated Asteroid using gameobjects</div>
+<div class="text-box">Classic early learning c++ recreating Asteroids</div>
 
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
@@ -189,8 +188,7 @@ title: Projects
   </tr>
 </table>
 
-## Apprentice Programmer / QA
-<div class="text-box">And then naturally it became 3D xD based on the game - this version was really a showcase of standard HLSL shaders, as well as some custom like the water effect </div>
+<div class="text-box">And naturally it became 3D xD based on the game Darkside - this was really a showcase of standard HLSL shaders, as well as some custom stuff like the planets water effect. </div>
 
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
@@ -202,6 +200,8 @@ title: Projects
     </td>
   </tr>
 </table>
+
+<div class="text-box">Messing around making an interactive specular shader.</div>
 
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
