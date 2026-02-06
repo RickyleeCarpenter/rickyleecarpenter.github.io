@@ -44,6 +44,32 @@ title: Projects
 <br>
 <br>
 
+<table style="margin: 20px auto;">
+  <tr>
+    <td style="padding:10px; text-align:center;">
+      <video
+        src="{{ '/assets/videos/DivBoard.mp4' | relative_url }}"
+        width="320"
+        autoplay
+        loop
+        muted
+        playsinline>
+      </video>
+    </td>
+
+    <td style="padding:10px; text-align:center;">
+      <video
+        src="{{ '/assets/videos/Tabs.mp4' | relative_url }}"
+        width="320"
+        autoplay
+        loop
+        muted
+        playsinline>
+      </video>
+    </td>
+  </tr>
+</table>
+
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 <hr style="height:0; border:none; margin:0; padding:0;">
 <hr style="border:2px solid lime; margin:30px 0;">
@@ -188,7 +214,7 @@ title: Projects
   </tr>
 </table>
 
-<div class="text-box">And naturally it became 3D xD based on the game Darkside - this was really a showcase of standard HLSL shaders, as well as some custom stuff like the planets water effect. </div>
+<div class="text-box">And naturally it became 3D xD based on the game Darkside - this was really a showcase of standard HLSL shaders, as well as some custom stuff like the planet's water effect. </div>
 
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
