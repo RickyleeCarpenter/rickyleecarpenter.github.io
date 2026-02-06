@@ -14,6 +14,13 @@ title: Hi, I'm Ricky!
   • game dev • makes things for fun •
 </div>
 
+<div style="height: 50px;"></div>
+
+<img
+  src="{{ '/assets/images/rickypattern.png' | relative_url }}"
+  alt="Me"
+  class="img-center">
+
 <div style="height: 800px;"></div>
 
 <div class="text-box">
