@@ -70,7 +70,17 @@ title: Projects
 
 ## Apprentice Programmer
 <div class="text-box">We intended this to be a party game with multiple game modes – when released we only included the one game mode shown in the video, with the intention of adding more games in later updates.</div>
-<div class="text-box">I had a generalist role on Snake Party, but my main responsibility was to prototype and lead development of a 4-player game mode. Though not long after Snake Party released, the project was unfortunately dropped for something else. It's now highly likely that the game mode I worked on will never see the light of day. xD</div>
+<div class="text-box">I had a generalist role on Snake Party, but my main responsibility was to prototype and lead development of a 4-player game mode. Though not long after Snake Party released, the project was unfortunately dropped for something else. It's now highly likely that the game mode I worked on will never be released but heres some footage of it anyway. xD</div>
+
+<div class="video-leftblock">
+  <table style="width:680px; margin:0 0 20px 0;">
+    <tr>
+      <td style="text-align:center;">
+        <iframe width="320" height="180" src="https://www.youtube.com/watch?v=Il9dzwpSpKM" frameborder="0" allowfullscreen></iframe>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 <hr style="height:0; border:none; margin:0; padding:0;">
@@ -127,7 +137,7 @@ title: Projects
 
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Jet Set Crash</span>
 <span class="subtitle-yellow">2024</span>
-<span class="subtitle-yellow">Built in c++ with a custom in-house engine</span>
+<span class="subtitle-yellow">Built in c++ with a custom in-house framework</span>
 <div class="text-box">2-player split screen party game, where astronauts race to build their rockets and escape the planet first.</div>
 <div class="text-box">Made in 1 month by myself and a small team of apprentices</div>
 
@@ -153,6 +163,50 @@ title: Projects
     </td>
     <td style="text-align:left; width:50%;">
       <img src="{{ '/assets/images/JSC1.gif' | relative_url }}" class="img-left" alt="Jet Set Crash screenshot 1">
+    </td>
+  </tr>
+</table>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+<hr style="height:0; border:none; margin:0; padding:0;">
+<hr style="border:2px solid lime; margin:30px 0;">
+<hr style="height:0; border:none; margin:0; padding:0;">
+<!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+
+# <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Asteroid Asteroid</span>
+<span class="subtitle-yellow">2024</span>
+<span class="subtitle-yellow">Built in c++ with inhouse frameworks</span>
+<div class="text-box">Early learning c++ I recreated Asteroid using gameobjects</div>
+
+<table style="width:680px; margin:0 auto 20px auto;">
+  <tr>
+    <td style="text-align:left; width:50%;">
+      <img src="{{ '/assets/images/Asteroid1.gif' | relative_url }}" class="img-left" alt="Asteroid Screenshot 1">
+    </td>
+    <td style="text-align:left; width:50%;">
+      <img src="{{ '/assets/images/Asteroid2.gif' | relative_url }}" class="img-left" alt="Asteroid Screenshot 2">
+    </td>
+  </tr>
+</table>
+
+## Apprentice Programmer / QA
+<div class="text-box">And then naturally it became 3D xD based on the game - this version was really a showcase of standard HLSL shaders, as well as some custom like the water effect </div>
+
+<table style="width:680px; margin:0 auto 20px auto;">
+  <tr>
+    <td style="text-align:left; width:50%;">
+      <img src="{{ '/assets/images/Brightside_2.gif' | relative_url }}" class="img-left" alt="Brightside screenshot 2">
+    </td>
+    <td style="text-align:left; width:50%;">
+      <img src="{{ '/assets/images/Shader2_2.gif' | relative_url }}" class="img-left" alt="Brightside screenshot 1">
+    </td>
+  </tr>
+</table>
+
+<table style="width:680px; margin:0 auto 20px auto;">
+  <tr>
+    <td style="text-align:left; width:50%;">
+      <img src="{{ '/assets/images/Shader1.gif' | relative_url }}" class="img-left" alt="Lighting Shader">
     </td>
   </tr>
 </table>
