@@ -5,6 +5,10 @@ title: Hi, I'm Ricky!
 
 # Me:
 
+# <span style="color: cyan; text-shadow: 2px 2px 0 magenta; display:block; text-align:center;">ABOUT</span>
+
+<div style="height: 10px;"></div>
+
 <img
   src="{{ '/assets/images/portrait.gif' | relative_url }}"
   alt="Me"
@@ -19,9 +23,7 @@ title: Hi, I'm Ricky!
   <a class="link" href="https://linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a>
 </div>
 
-<div style="height: 30px;"></div>
-
-# <span style="color: cyan; text-shadow: 2px 2px 0 magenta; display:block; text-align:center;">ABOUT</span>
+<div style="height: 10px;"></div>
 
 <div class="text-box text-box-center">
   <ul class="left-list" style="list-style:none; margin:0; text-align:left; padding:0;">
