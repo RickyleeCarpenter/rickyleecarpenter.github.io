@@ -44,7 +44,7 @@ title: Projects
 
 <table class="video-pair" style="margin: 20px 0;">
   <tr>
-    <td style="padding:10px; text-align:left;">
+    <td style="padding:10px;">
       <video
         src="{{ '/assets/videos/DivBoard.mp4' | relative_url }}"
         autoplay
@@ -54,7 +54,7 @@ title: Projects
       </video>
     </td>
 
-    <td style="padding:10px; text-align:left;">
+    <td style="padding:10px;">
       <video
         src="{{ '/assets/videos/Tabs.mp4' | relative_url }}"
         autoplay
