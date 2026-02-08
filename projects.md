@@ -42,12 +42,11 @@ title: Projects
 <div class="text-box">My personal favorite work is the procedural animations with instanced objects</div>
 <br>
 
-<table style="margin: 20px 0;">
+<table class="video-pair" style="margin: 20px 0;">
   <tr>
     <td style="padding:10px; text-align:left;">
       <video
         src="{{ '/assets/videos/DivBoard.mp4' | relative_url }}"
-        height="512"
         autoplay
         loop
         muted
@@ -58,7 +57,6 @@ title: Projects
     <td style="padding:10px; text-align:left;">
       <video
         src="{{ '/assets/videos/Tabs.mp4' | relative_url }}"
-        height="512"
         autoplay
         loop
         muted

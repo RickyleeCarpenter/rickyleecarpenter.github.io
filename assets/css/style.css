@@ -206,3 +206,9 @@ button:hover {
 .left-list {
   text-align: left;
 }
+
+.video-pair video {
+  height: 512px;
+  width: auto;
+  max-width: 100%;
+}
