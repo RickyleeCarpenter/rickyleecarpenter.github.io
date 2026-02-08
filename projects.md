@@ -241,7 +241,7 @@ title: Projects
   </tr>
 </table>
 
-<div class="text-box">Messing around making an interactive specular shader, as par tof developing the planetary water shader above.</div>
+<div class="text-box">Messing around making an interactive specular shader, as part of developing the planetary water shader above.</div>
 
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
