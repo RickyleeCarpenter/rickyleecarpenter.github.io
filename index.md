@@ -24,16 +24,16 @@ title: Hi, I'm Ricky!
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta; display:block; text-align:center;">ABOUT</span>
 
 <div class="text-box text-box-center">
-  <ul class="left-list" style="list-style:none; padding-left:20px; margin:0; text-align:left;">
+  <ul class="left-list" style="list-style:none; margin:0; text-align:left; padding:0;">
 
     <li><span class="subtitle-yellow">Work</span></li>
 
-    <li>
+    <li class="bullet">
       • 2y professional C++ game development (custom engine)
       <a class="link" href="/projects">Projects</a>
     </li>
 
-    <li>
+    <li class="bullet">
       • 10y+ indie / jam games (C#, Unity)
       <a class="link" href="/games">Games</a>,
       <a class="link" href="https://rickylee.itch.io/">itch.io</a>
@@ -43,9 +43,9 @@ title: Hi, I'm Ricky!
 
     <li><span class="subtitle-yellow">Qualifications</span></li>
 
-    <li>• Level 7 Games Programmer Apprenticeship</li>
-    <li>• MSc, Automation and Control</li>
-    <li>• BEng (Hons), Electrical and Electronics Engineering</li>
+    <li class="bullet">• Level 7 Games Programmer Apprenticeship</li>
+    <li class="bullet">• MSc, Automation and Control</li>
+    <li class="bullet">• BEng (Hons), Electrical and Electronics Engineering</li>
 
   </ul>
 </div>

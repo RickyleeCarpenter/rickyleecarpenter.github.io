@@ -207,6 +207,10 @@ button:hover {
   text-align: left;
 }
 
+.left-list .bullet {
+  padding-left: 20px;
+}
+
 .video-pair video {
   height: 512px;
   width: auto;
