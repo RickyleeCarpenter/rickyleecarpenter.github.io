@@ -49,11 +49,9 @@ title: Hi, I'm Ricky!
     <li class="bullet">• BEng, Electrical and Electronics Engineering</li>
 
     <li style="margin-top: 1em;"></li>
-    <li><span class="subtitle-yellow">Innocations</span></li>
+    <li><span class="subtitle-yellow">Innovations</span></li>
   </ul>
 </div>
-
-<div style="height: 10px;"></div>
 
 <img
   src="{{ '/assets/images/rickypattern.png' | relative_url }}"
