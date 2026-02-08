@@ -207,7 +207,7 @@ title: Projects
 
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Asteroid Asteroid</span>
 <span class="subtitle-yellow">2024</span>
-<span class="subtitle-yellow">Built in c++ with inhouse frameworks</span>
+<span class="subtitle-yellow">Built in c++ with in-house frameworks</span>
 <div class="text-box">Classic early learning c++ recreating Asteroids</div>
 
 <table style="width:680px; margin:0 0 20px 0;">
@@ -249,3 +249,20 @@ title: Projects
 <hr style="border:2px solid lime; margin:30px 0;">
 <hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+
+# <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Gonquered</span>
+<span class="subtitle-yellow">2024</span>
+<span class="subtitle-yellow">Built in c++ with an in-house framework</span>
+<div class="text-box">multiplayer 2D tower defense game in a psuedo Isometric 3d style.</div>
+
+<table style="width:680px; margin:0 0 20px 0;">
+  <tr>
+    <td style="padding:0px;">
+      <video
+        src="{{ '/assets/videos/Gonk_2.mp4' | relative_url }}"
+        style="height:300px; width:auto; display:block;"
+        autoplay loop muted playsinline>
+      </video>
+    </td>
+  </tr>
+</table>
