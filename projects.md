@@ -70,7 +70,7 @@ title: Projects
 <span class="subtitle-yellow">2024</span>
 <span class="subtitle-yellow">Built in c++ with a custom in-house 3D Engine</span>
 
--<div>
+- <div>
   <div class="text-box">A 3d multiplayer split screen take on the classic snake, using the <a class="link" href="https://store.steampowered.com/app/544330/Snake_Pass/)" target="_blank">Snake Pass</a> IP.</div>
   <div class="text-box">Developed by Sumo Digital Academy for Sheffield Wednesday FC to play at half time.</div>
 </div>
