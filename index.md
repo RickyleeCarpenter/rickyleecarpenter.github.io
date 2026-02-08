@@ -5,9 +5,9 @@ title: Hi, I'm Ricky!
 
 # Me:
 
-# <span style="color: cyan; text-shadow: 2px 2px 0 magenta; display:block; text-align:center;">ABOUT</span>
-
 <div style="height: 10px;"></div>
+
+# <span style="color: cyan; text-shadow: 2px 2px 0 magenta; display:block; text-align:center;">ABOUT</span>
 
 <img
   src="{{ '/assets/images/portrait.gif' | relative_url }}"
