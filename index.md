@@ -31,7 +31,7 @@ title: Hi, I'm Ricky!
     <li><span class="subtitle-yellow">Work</span></li>
 
     <li class="bullet">
-      • 2y professional C++ game development (custom engine)
+      • 2y professional C++ game development (in-house engine)
       <a class="link" href="/projects">Projects</a>
     </li>
 
@@ -42,17 +42,18 @@ title: Hi, I'm Ricky!
     </li>
 
     <li style="margin-top: 1em;"></li>
-
     <li><span class="subtitle-yellow">Qualifications</span></li>
 
     <li class="bullet">• Level 7 Games Programmer Apprenticeship</li>
     <li class="bullet">• MSc, Automation and Control</li>
-    <li class="bullet">• BEng (Hons), Electrical and Electronics Engineering</li>
+    <li class="bullet">• BEng, Electrical and Electronics Engineering</li>
 
+    <li style="margin-top: 1em;"></li>
+    <li><span class="subtitle-yellow">Innocations</span></li>
   </ul>
 </div>
 
-<div style="height: 30px;"></div>
+<div style="height: 10px;"></div>
 
 <img
   src="{{ '/assets/images/rickypattern.png' | relative_url }}"
