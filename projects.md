@@ -40,7 +40,6 @@ title: Projects
 <div class="text-box">I was involved right from the start before NUTMEG was officially a project at Sumo. There were many internal processes to get NUTMEG greenlit. One of those was to produce a prototype of the card game - which myself and a two others were given the responsibility to develop using an in-house custom 2D framework.</div>
 <div class="text-box">After it officially kicked off I ended up working across pretty much every layer of the project — adding new gameplay and flow, extending our data-driven systems, making engine tools to prevent insanity, helping shape new rendering features and writing the shaders for them.</div>
 <div class="text-box">My personal favorite work is the procedural animations with instanced objects</div>
-<br>
 
 <table class="video-pair" style="margin: 20px 0;">
   <tr>
@@ -259,7 +258,7 @@ title: Projects
   <tr>
     <td style="padding:0px;">
       <video
-        src="{{ '/assets/videos/Gonk_2.mp4' | relative_url }}"
+        src="{{ '/assets/videos/gonkquered.mp4' | relative_url }}"
         style="height:300px; width:auto; display:block;"
         autoplay loop muted playsinline>
       </video>
