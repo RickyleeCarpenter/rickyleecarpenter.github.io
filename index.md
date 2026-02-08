@@ -19,7 +19,7 @@ title: Hi, I'm Ricky!
   <a class="link" href="https://linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a>
 </div>
 
-# <span style="color: cyan; text-shadow: 2px 2px 0 magenta; display:block; text-align:center;">ABOUT</span>
+<div style="height: 30px;"></div>
 
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta; display:block; text-align:center;">ABOUT</span>
 
@@ -29,12 +29,12 @@ title: Hi, I'm Ricky!
     <li><span class="subtitle-yellow">Work</span></li>
 
     <li>
-      2y professional C++ game development (custom engine)
+        •  2y professional C++ game development (custom engine)
       <a class="link" href="/projects">Projects</a>
     </li>
 
     <li>
-      10y+ indie / jam games (C#, Unity)
+        •  10y+ indie / jam games (C#, Unity)
       <a class="link" href="/games">Games</a>,
       <a class="link" href="https://rickylee.itch.io/">itch.io</a>
     </li>
@@ -43,14 +43,14 @@ title: Hi, I'm Ricky!
 
     <li><span class="subtitle-yellow">Qualifications</span></li>
 
-    <li>Level 7 Games Programmer Apprenticeship</li>
-    <li>MSc, Automation and Control</li>
-    <li>BEng (Hons), Electrical and Electronics Engineering</li>
+    <li>  • Level 7 Games Programmer Apprenticeship</li>
+    <li>  • MSc, Automation and Control</li>
+    <li>  • BEng (Hons), Electrical and Electronics Engineering</li>
 
   </ul>
 </div>
 
-<div style="height: 50px;"></div>
+<div style="height: 30px;"></div>
 
 <img
   src="{{ '/assets/images/rickypattern.png' | relative_url }}"
