@@ -18,8 +18,8 @@ title: Projects
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
 <span class="subtitle-yellow">2024–2026</span>
 <span class="subtitle-yellow">Built in c++ with a custom in-house 3D Engine</span>
-<div class="text-box">A 3D retro 80s football manager, that uses a card game with deck building to represent football matches.</div>
-<div class="text-box">Developed by Sumo Digital Academy and published by Secret Mode.</div>
+<div class="text-box">A 3D retro 80s football manager.</div>
+<div class="text-box">Developed by Sumo Digital Academy, published by Secret Mode.</div>
 
 - [Steam Store Page](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/){: .link }
 
@@ -37,9 +37,8 @@ title: Projects
 <div style="clear:both;"></div>
 
 ## Junior Programmer
-<div class="text-box">I was involved right from the start before NUTMEG was officially a project at Sumo. There were many internal processes to get NUTMEG greenlit. One of those was to produce a prototype of the card game - which myself and a two others were given the responsibility to develop using an in-house custom 2D framework.</div>
-<div class="text-box">After it officially kicked off I ended up working across pretty much every layer of the project — adding new gameplay and flow, extending our data-driven systems, making engine tools to prevent insanity, helping shape new rendering features and writing the shaders for them.</div>
-<div class="text-box">My personal favorite work is the procedural animations with instanced objects</div>
+<div class="text-box">I was involved throughout the prodution of Nutmeg. Initially prototyping the football card game with an in-house 2D framework all the way to the final product.</div>
+<div class="text-box">Some work I'd like to highlight are these procedural instanced animations below, they're pretty cool if you ask me B)</div>
 
 <table class="video-pair" style="margin: 20px 0;">
   <tr>
@@ -86,8 +85,8 @@ title: Projects
 </div>
 
 ## Apprentice Programmer
-<div class="text-box">We intended this to be a party game with multiple game modes – when released we only included the one game mode shown in the video, with the intention of adding more games in later updates.</div>
-<div class="text-box">I had a generalist role on Snake Party, but my main responsibility was to prototype and lead development of a 4-player game mode. Though not long after Snake Party released, the project was unfortunately dropped for something else. It's now highly likely that the game mode I worked on will never be released but heres some footage of it anyway. xD</div>
+<div class="text-box">When released we only included the one game mode shown in the above video.</div>
+<div class="text-box">I lead the prototyping of a 4-player snake football game that was dropped for another project, but heres some footage of it anyway xD</div>
 
 <div class="video-leftblock">
   <table style="width:680px; margin:0 0 20px 0;">
@@ -132,9 +131,7 @@ title: Projects
 <div style="clear: both;"></div>
 
 ## Apprentice Programmer / QA
-<div class="text-box">My first AAA credit was on Still Wakes The Deep for being QA on Oil Strike '75. Id just started as an apprentice and this was our first real look at how things ran in a large scale studio.</div>
-<div class="text-box">We learned how to test features properly, write clear bug reports, and understand debugging workflows from the QA side — plus all the practical stuff like Perforce, project management tools, continuous integration, Agile, and Scrum that make up the production pipeline.</div>
-<div class="text-box">I specifically tested Matt's helicopter level, so if you play it you know that at least that part of the game won't have any glitches B)</div>
+<div class="text-box">I specifically tested Matt's helicopter level, so you know that at least that part of the game won't have any glitches B)</div>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 <hr style="height:0; border:none; margin:0; padding:0;">
@@ -156,7 +153,7 @@ title: Projects
 <span class="subtitle-yellow">2024</span>
 <span class="subtitle-yellow">Built in c++ with a custom in-house framework</span>
 <div class="text-box">2-player split screen party game, where astronauts race to build their rockets and escape the planet first.</div>
-<div class="text-box">Made in 1 month by myself and a small team of apprentices</div>
+<div class="text-box">Made in just 1 month by a small team of apprentices</div>
 
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
@@ -169,7 +166,7 @@ title: Projects
   </tr>
 </table>
 
-<div class="text-box">We took the game to the national video games museum and an esports event. One kid just loved that he could attack his dad and make him drop his ship components xD.</div>
+<div class="text-box">We took the game to the national video games museum and an esports event. One kid absolutley loved that he could attack his dad and make him drop his ship components xD</div>
 
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
@@ -185,7 +182,9 @@ title: Projects
   </tr>
 </table>
 
-<div class="text-box">My favourite feature was the little alien creatures that would steal ship parts, we turned that into a catch-up mechanic so that the aliens would carry ship parts away from players that were winning and towards losing players. But randomly when it was tied.</div>
+<div class="text-box">
+  My favourite feature was the little alien creatures that would steal ship parts, we turned that into a catch-up mechanic so that the aliens would carry ship parts away from players that were winning and towards losing players.
+</div>
 
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
@@ -204,10 +203,10 @@ title: Projects
 <hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
-# <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Asteroid Asteroid</span>
+# <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">The Darkside of Asteroids</span>
 <span class="subtitle-yellow">2024</span>
-<span class="subtitle-yellow">Built in c++ with in-house frameworks</span>
-<div class="text-box">Classic early learning c++ recreating Asteroids</div>
+<span class="subtitle-yellow">Solo project, c++ with in-house 3D frameworks</span>
+<div class="text-box">The classic early learning c++ of recreating Asteroids.</div>
 
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
@@ -220,7 +219,10 @@ title: Projects
   </tr>
 </table>
 
-<div class="text-box">And naturally it became 3D xD based on the game Darkside - this was really a showcase of standard HLSL shaders, as well as some custom stuff like the planet's water effect. </div>
+<div class="text-box">
+  And naturally it became 3D based on the game 
+  <a class="link" href="https://clockworkpixels.itch.io/darkside">Darkside</a>.
+</div>
 
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
@@ -233,7 +235,7 @@ title: Projects
   </tr>
 </table>
 
-<div class="text-box">Messing around making an interactive specular shader.</div>
+<div class="text-box">Messing around making an interactive specular shader, as par tof developing the planetary water shader above.</div>
 
 <table style="width:680px; margin:0 0 20px 0;">
   <tr>
@@ -251,7 +253,8 @@ title: Projects
 
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Gonquered</span>
 <span class="subtitle-yellow">2024</span>
-<span class="subtitle-yellow">Built in c++ with an in-house framework</span>
+<span class="subtitle-yellow">Solo project, c++ with an in-house 2D framework</span>
+
 <div class="text-box">multiplayer 2D tower defense game in a psuedo Isometric 3d style.</div>
 
 <table style="width:680px; margin:0 0 20px 0;">
