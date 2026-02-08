@@ -95,6 +95,7 @@ form {
   font-family: 'Courier New', monospace;
   color: lime;
   background-color: black;
+  box-sizing: border-box;
 }
 
 input, textarea {
