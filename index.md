@@ -15,10 +15,21 @@ title: Hi, I'm Ricky!
 </div>
 
 <div class="text-box text-box-center">
-  <ul class="left-list" style="list-style:none; padding:0; margin:0;">
-    <li>2y professional C++ game development (custom engine) <a href="/projects">Projects</a></li>
-    <li>10y+ indie / jam games (C#, Unity) <a href="/games">Games</a>, <a href="https://rickylee.itch.io/">itch.io</a></li>
-    <li>Contact <a href="/contact">Contact</a> | <a href="https://linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a></li>
+  <a class="link" href="/contact">Contact</a> | 
+  <a class="link" href="https://linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a>
+</div>
+
+<div class="text-box text-box-center">
+  <ul class="left-list" style="list-style:none; padding:0; margin:0; text-align:left;">
+    <li>2y professional C++ game development (custom engine) <a class="link" href="/projects">Projects</a></li>
+    <li>10y+ indie / jam games (C#, Unity) <a class="link" href="/games">Games</a>, <a class="link" href="https://rickylee.itch.io/">itch.io</a></li>
+
+
+    <li style="margin-top: 1em;"></li>
+
+    <li>Level 7 Games Programmer Apprenticeship</li>
+    <li>MSc, Automation and Control</li>
+    <li>BEng (Hons), Electrical and Electronics Engineering</li>
   </ul>
 </div>
 
