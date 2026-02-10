@@ -99,7 +99,7 @@ The gifs below show some of the animations I made using this system — they’r
 
 ## Apprentice Programmer
 <div class="text-box">When released we only included the one game mode shown in the above video.</div>
-<div class="text-box">I lead the prototyping of a 4-player snake football game that was dropped for another project, but heres some footage of it anyway xD</div>
+<div class="text-box">I led the prototyping of a 4-player snake football game that was dropped for another project - which is a shame because people in the office couldn't stop playing it xD, heres some footage of it below</div>
 
 <div class="video-leftblock">
   <table style="width:680px; margin:0 0 20px 0;">
