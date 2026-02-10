@@ -37,8 +37,15 @@ title: Projects
 <div style="clear:both;"></div>
 
 ## Junior Programmer
-<div class="text-box">I was involved throughout the prodution of Nutmeg. Initially prototyping the football card game with an in-house 2D framework all the way to the final product.</div>
-<div class="text-box">Some work I'd like to highlight are these procedural instanced animations below, they're pretty cool if you ask me B)</div>
+<div class="text-box">
+I was involved throughout the production of Nutmeg, from initial prototyping of the football card game all the way to the final product.
+</div>
+<div class="text-box">
+A highlight of my work is the procedural instanced rendering and animation system I independently developed and maintained from 2024–2026, adapting and extending it through to release.
+</div>
+<div class="text-box">
+The gifs below show some of the animations I made using this system — they’re pretty cool if you ask me B)
+</div>
 
 <table class="video-pair" style="margin: 20px 0;">
   <tr>
