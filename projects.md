@@ -41,10 +41,10 @@ title: Projects
 I was involved throughout the production of Nutmeg, from initial prototyping of the football card game all the way to the final product.
 </div>
 <div class="text-box">
-A highlight of my work is the procedural instanced rendering and animation system I independently developed and maintained from 2024–2026, adapting and extending it through to release.
+The highlights of my work are the procedural instanced rendering and animation systems. I independently developed and maintained these, adapting and extending them through inception in 2024 to release in 2026.
 </div>
 <div class="text-box">
-The gifs below show some of the animations I made using this system — they’re pretty cool if you ask me B)
+The gifs below show some of the animations I made using these systems — and they’re pretty cool if you ask me B)
 </div>
 
 <table class="video-pair" style="margin: 20px 0;">
